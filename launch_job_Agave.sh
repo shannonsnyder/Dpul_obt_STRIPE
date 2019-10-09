@@ -13,7 +13,7 @@ module load r/3.5.2
 
 echo "Launching job"
 
-cd /home/ssnyde11/DpCAGE_v4_0 #update to reflect our directory structure
+cd /home/ssnyde11/scratch/STRIPE_OCT/Dpul_obt_STRIPE #update to reflect our directory structure
 ./xdoit > err
 
 echo "Job complete"
